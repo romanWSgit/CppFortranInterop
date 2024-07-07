@@ -1,0 +1,16 @@
+Condition number of the matrix: 247.36
+Fortran LAPACK Duration: 0.018914 seconds
+Fortran LAPACK relative reconstruction error: 0.99286
+Eigen Library (with LAPACK) Duration: 0.03751 seconds
+Eigen Library relative reconstruction error: 4.94851e+08
+
+Summary:
+Chosen method: Eigen with LAPACK
+Matrix size: 200
+Fortran LAPACK Duration: 0.018914 seconds
+Eigen Library Duration: 0.03751 seconds
+Maximum difference between Fortran LAPACK and Eigen eigenvalues: 14.1579
+Maximum difference between Fortran LAPACK and Eigen eigenvectors: 0.372397
+Fortran LAPACK relative reconstruction error: 0.99286
+Eigen Library relative reconstruction error: 4.94851e+08
+Fortran LAPACK was faster by 0.018596 seconds
